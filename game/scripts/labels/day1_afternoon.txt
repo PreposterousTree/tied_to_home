@@ -1,0 +1,41 @@
+label day1_afternoon:
+
+scene livingroom_c_sitting_01 with fade
+play music "bgm_afternoon_soft.ogg" fadein 1.5
+
+"…"
+
+"Why does this couch feel heavier than usual?"
+
+"Everything’s done. Bella took care of it all again."
+
+"I keep saying I’ll leave, but I’m still sitting here. Same spot. Same excuses."
+
+scene livingroom_b_enters_glass_01 with dissolve
+
+b "Still dehydrated, dummy."
+
+scene livingroom_b_sets_glass_01 with dissolve
+
+b "Don’t make me come back and check, okay?"
+
+scene livingroom_b_exit_01 with dissolve
+
+mc "Thanks..."
+
+"She’s always looking out for me. Even when I don’t ask."
+
+scene livingroom_c_glass_stare_01 with dissolve
+
+"I should be doing something. Saying something. Packing, maybe."
+
+"But that glass just keeps sitting there. And so do I."
+
+"Am I staying out of gratitude?"
+
+"…Or because I’m too tired to go?"
+
+scene black with fade
+pause 1
+
+jump day1_evening

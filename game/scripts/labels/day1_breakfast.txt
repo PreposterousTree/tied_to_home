@@ -1,0 +1,73 @@
+label day1_breakfast:
+
+scene kitchen_empty_wide_01 with fade
+
+scene living_c_enter_01 disolve
+
+"The kitchen is already warm. Not just from the stove — from something quieter."
+
+scene kitchen_b_cooking_stove_side_01 with dissolve
+
+"Bella is at the counter, tying her hair back with a rubber band, the pan already sizzling."
+
+scene dining_l_tired_table_01 with dissolve
+
+"And Lilith... well, she is doing her best impersonation of a human being."
+
+scene kitchen_clb_entering_door_wide_01 with dissolve
+
+"Lilith is obviously still half asleep. Mornings were never her forte."
+
+scene kitchen_b_smile_over_shoulder_01 with dissolve
+
+b "You're up early."
+
+mc "Am I?"
+
+b "Earlier than usual."
+
+scene dining_l_coffee_grumble_02 with dissolve
+
+l "...He's probably just trying to beat me to the last slice of toast again."
+
+mc "Please. That’s your thing, Lily."
+
+scene dining_l_flinch_name_01 with dissolve
+
+"Lilith flinched. Not visibly. But I knew her well enough to spot the hitch in her breath."
+
+l "Don't call me that."
+
+mc "You gonna make me toast if I stop?"
+
+l "You gonna make me coffee if I don’t?"
+
+scene dining_b_bring_breakfast_01 with dissolve
+
+b "Why don’t you both sit down? It’s almost ready."
+
+scene dining_clb_seated_table_wide_01 with dissolve
+
+"The three of them had fallen into this rhythm. Not a family — not quite. But not strangers either."
+
+scene dining_c_reflect_soft_01 with dissolve
+
+mc "Hard to believe your mom’s been gone two years."
+
+b "Feels like yesterday. And forever."
+
+scene dining_l_faint_smile_01 with dissolve
+
+l "She left us this house. And the two of you with it."
+
+mc "Lucky you."
+
+l "Shut up and eat."
+
+scene dining_b_proud_food_table_01 with dissolve
+
+"The eggs are fluffy. The toast is perfect. Bella never misses a step in the kitchen — unlike her mom."
+
+"The food is good. But the comfort? That comes from the voices around the table."
+
+jump day1_chores

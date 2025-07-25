@@ -1,0 +1,75 @@
+label day1_chores:
+
+scene living_cb_dishes_clear_wide_01 with fade
+
+"Of course Lilith ran away after breakfast. The first sign of something related to a chore and she bolts."
+
+scene kitchen_b_drying_dish_side_01 with dissolve
+
+b "You know you don’t have to help, right?"
+
+scene kitchen_c_wiping_table_01
+
+mc "Yeah, but if I don’t, I’ll hear about it next Sunday."
+
+scene kitchen_b_drying_dish_front_smirk_01
+
+b "From Mom?"
+
+mc "From you."
+
+scene living_cb_fold_laundry_sofa_01
+
+"Laundry. The weekly chore that everyone dreads. But I doubt anyone has the money to buy new socks every week."
+
+scene living_b_refolding_c_laundry_01
+
+b "You're hopeless."
+
+mc "You say that like it’s news."
+
+scene living_b_sitting_sofa_reflect_01
+
+[Pause]
+
+mc "I’m sorry, by the way."
+
+scene living_cb_sitting_sofa_01
+
+b "For what?"
+
+mc "Just... for how things turned out."
+
+mc "You've had to go behind your mom and I to pick up the slack around here."
+
+mc "Not to mention the fact that you've never had a dad around."
+
+scene living_b_soft_shrug_close_01
+
+b "You don’t have to apologize. That was never your fault."
+
+scene living_cb_sitting_sofa_01
+
+mc "Doesn’t mean I don’t wish it had gone different."
+
+mc "I still can't understand how he could just walk away after finding out your mom was pregnant."
+
+mc "They were still in highschool. How could she be expected to handle all this."
+
+scene living_cb_sitting_look_at_each_other_behind_01
+
+b "I know. It wasn't fair to mom."
+
+b "But i'm still happy with how things turned out."
+
+scene living_b_smile_faint_close_01
+
+b "Otherwise... I might not have ended up with you around."
+
+b "And who else would break my dish towel folding rules every week?"
+
+scene living_cb_sitting_look_at_each_other_behind_01
+
+"Her smiled is always so warm. She is never upset about having to do the chores."
+
+jump day1_afternoon

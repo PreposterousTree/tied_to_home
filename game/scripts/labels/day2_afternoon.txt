@@ -1,0 +1,177 @@
+label day2_afternoon:
+
+# Reception
+scene reception_c_arrive_door_01 with fade
+play music "work.ogg" fadein 1.5
+
+"Back to the grind."
+
+"Every Monday I wonder if today’s the day I don’t come back."
+
+"Then I remember: bills, food, responsibilities… and Frank."
+
+scene reception_cf_greeting_01 with dissolve
+
+f "There he is! Mr. Monday Morning Regret!"
+
+f "Looking like a man who slept in his worries."
+
+mc "You say that like it’s not your nickname too."
+
+mc "Besides, I’m just trying to match the office aesthetic - dead inside."
+
+scene reception_cf_walk_in_01 with dissolve
+
+f "Difference is, I embrace it. Regret’s just foreplay for beer."
+
+f "Speaking of which, Friday. Drinks. You in?"
+
+mc "We’ll see if I make it that far."
+
+"Frank Lloyd. Man's in his late fifties. Been working together for almost a decade."
+
+"He's loud by default and after years of smoking he's got a voice like a busted speaker. And he's a man with a face made for radio."
+
+"Frank’s a bachelor by choice. At least now. He's been married and divorced 3 times."
+
+"And he's the closest thing I’ve got to a friend in this place."
+
+# Bullpen
+scene bullpen_cf_enter_01 with fade
+
+f "So how’s the home life, huh? Girls still pretending you're the man of the house?"
+
+f "Or have they staged a coup yet?"
+
+mc "They don’t pretend. They’re just polite enough not to point out I’m not."
+
+mc "Pretty sure even the TV outranks me."
+
+scene bullpen_cf_desk_stand_01 with dissolve
+
+f "Polite girls? At your place? Can I move in?"
+
+f "I’ll bring charm and zero domestic skills."
+
+mc "No vacancy. And you'd get eaten alive."
+
+mc "Probably by breakfast."
+
+f "Bah, I’d die happy. Probably smothered under a mountain of sass and sarcasm."
+
+mc "Better than paperwork."
+
+mc "But barely."
+
+f "Speak for yourself. These invoices don’t sass me. They just ignore me like my ex-wife."
+
+f "Or my second one. Or the third…"
+
+scene bullpen_c_working_01 with fade
+
+"Frank finally wandered off. Small blessings."
+
+"Time to get some actual work done."
+
+scene bullpen_c_focus_desk_01 with dissolve
+
+"I'm an accountant for a design firm. But it sounds flashier than it is."
+
+"Mostly it’s spreadsheets, reports, and making sure someone’s modern art passion project doesn’t bankrupt the company."
+
+scene bullpen_c_sitting_head_down_01 with dissolve
+
+"Every day feels like the last. Same chair. Same screen. Same countdown to five o’clock."
+
+"Some days I wonder if I chose this job... or just never left it."
+
+"Design sounds exciting. But I’m the guy who tells them no."
+
+"No, you can’t afford that sculpture. No, the LED floor tiles aren’t in budget."
+
+"It’s thankless. But I guess that’s the job."
+
+# Naomi enters
+scene bullpen_cn_desk_01 with dissolve
+
+n "Uhm... hey, Cal?"
+
+n "Sorry... are you busy?"
+
+scene bullpen_cn_desk_talk_01 with dissolve
+
+"Naomi Little. She's a graphic designer with a soft voice and softer heart."
+
+"She sees things other people miss. Including me."
+
+scene bullpen_cn_desk_talk_shy_01 with dissolve
+
+n "I was wondering... would you want to eat lunch together today?"
+
+n "If you’re not already meeting someone."
+
+scene bullpen_cn_desk_talk_02 with dissolve
+
+mc "Yeah. That sounds nice."
+
+mc "Thanks for asking."
+
+n "Okay. Um... breakroom?"
+
+n "I grabbed a corner table."
+
+mc "Lead the way."
+
+# Breakroom
+scene breakroom_cn_enter_01 with fade
+
+n "I brought extra salad. Hope that’s okay."
+
+n "I kind of over-packed again."
+
+scene breakroom_cn_sit_01 with dissolve
+
+mc "Honestly, if it’s not instant noodles, I’m grateful."
+
+n "You should eat better."
+
+n "You look... tired."
+
+scene breakroom_c_smile_01 with dissolve
+
+mc "You sound like someone I live with."
+
+mc "She says the same thing."
+
+mc "She gave me something to bring. Since your sharing I should too."
+
+scene breakroom_n_smile_01 with dissolve
+
+n "She must care about you."
+
+n "A lot."
+
+scene breakroom_cn_eat_01 with dissolve
+
+"She does. They all do."
+
+"Naomi doesn’t say much. But when she does, it sticks."
+
+"There’s something about how she listens... like it matters."
+
+"Feels strange, being noticed."
+
+# Bullpen – End of Day
+scene bullpen_c_sit_desk_tired_01 with fade
+
+"Work’s done. For now."
+
+"Time to go home... whatever that means lately."
+
+scene bullpen_c_leave_01 with dissolve
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day2_evening

@@ -1,0 +1,61 @@
+label day1_evening:
+
+scene dining_clb_dinner_end_01 with fade
+
+b "You got everything ready for work tomorrow?"
+
+mc "Yeah. Mostly."
+
+b "You're a bad liar."
+
+l "Should be lying about something useful. Like getting a promotion."
+
+mc "I’ll put that on my to-do list."
+
+scene living_clb_sofa_sit_01 with fade
+
+mc "Let’s just agree we’re not watching dating trash tonight."
+
+l "Says the guy who watched three hours of baking fails last week."
+
+mc "They were impressive failures."
+
+l "They were collapsing cakes and crying contestants."
+
+mc "And that’s art."
+
+scene living_b_remote_grab_01 with dissolve
+
+b "Too late. I already picked."
+
+scene living_b_remote_click_01 with dissolve
+
+mc "Of course you did…"
+
+l "Ugh. Romance anime again?"
+
+b "Yup. Now hush."
+
+scene living_clb_sofa_watch_01 with dissolve
+
+"She settles in between us. Like it’s always been this way."
+
+scene bedroom_c_eyes_open_01 with fade
+stop music fadeout 2.0
+
+"…"
+
+"I should’ve packed today."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"I don’t want to go to work tomorrow."
+
+scene bedroom_ceiling_02 with dissolve
+
+"Why the hell am I still here?"
+
+scene black with fade
+pause 1
+
+jump day2_morning

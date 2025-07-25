@@ -1,0 +1,53 @@
+label day1_morning:
+
+scene bedroom_c_sleeping_wide_01 with fade
+play music "morning_soft.ogg" fadein 1.5
+
+"…"
+"That sound again."
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"The birds. Every damn morning. Like they’ve got something to be excited about."
+
+"Me? I’ve got a two-foot dent in this mattress and half a plan to disappear."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"Maybe I’d already be gone if I wasn’t so tired. Or lazy. Or both."
+
+scene bedroom_front_wall_01 with dissolve
+
+"I told myself I’d pack up after the funeral. Tie up loose ends. Start fresh somewhere else."
+
+scene bedroom_c_sitting_bed_01 with dissolve
+
+"But somehow I’m still here. Still… stalled."
+
+scene bedroom_suitcase_close_01 with dissolve
+
+"The bag's still on the floor. Half full. Like me."
+
+scene bedroom_c_looking_down_01 with dissolve
+
+"I should go."
+
+[Pause]
+
+"But she’s probably already in the kitchen. Making coffee. Or humming something old."
+
+scene bedroom_ceiling_01 with dissolve
+
+"Bella."
+
+"Too good for this place. Too good for me."
+
+scene bedroom_c_stand_bed_01 with dissolve
+
+"And now she’s up. Same as always. Quiet feet. Gentle rhythm."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"One more day. I’ll stay one more day."
+
+jump day1_breakfast

@@ -1,0 +1,102 @@
+label day2_evening:
+
+# Entryway
+scene entry_c_enter_02 with fade
+
+"Home again. Not sure if that’s a comfort or a curse."
+
+scene entry_cb_enter_01 with dissolve
+
+b "Hey. Welcome back."
+
+scene entry_cb_lunch_pass_01 with dissolve
+
+b "Did you eat everything?"
+
+mc "Yeah. Thanks again."
+
+mc "The note was… nice."
+
+scene entry_cb_blush_01 with dissolve
+
+b "I didn’t think you’d mention it."
+
+# Living Room
+scene livingroom_c_sitting_02 with fade
+
+"Too tired to think. Too tired to move. But I’m still here."
+
+"My shoes are still on. That feels like too much effort right now."
+
+"The cushions feel like they’re pulling me under."
+
+scene living_cb_sofa_approach_01 with dissolve
+
+b "Long day?"
+
+mc "Mh."
+
+b "You okay?"
+
+mc "Mh."
+
+b "You’re really wiped out, huh?"
+
+mc "Mh."
+
+scene living_cb_shoulder_massage_01 with dissolve
+
+mc "Mmh."
+
+b "That feels nice huh?"
+
+mc "Mmmmmh... yeah it does."
+
+mc "You’re good at this."
+
+b "Good at what?"
+
+mc "Mmmmh..."
+
+mc "Knowing when to say something. Or when not to."
+
+b "That’s just practice. With you, anyway."
+
+mc "Mh."
+
+b "You know… if you let yourself fall apart once in a while, someone might catch you."
+
+scene living_cb_shoulder_massage_02 with dissolve
+
+"…"
+
+"I don’t know what to say to that."
+
+# Bedroom
+scene bedroom_c_eyes_open_01 with fade
+stop music fadeout 2.0
+
+"I’m still not packed."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"I should’ve gone by now."
+
+scene bedroom_c_arm_over_eyes_01 with dissolve
+
+"But I didn’t."
+
+scene bedroom_ceiling_02 with dissolve
+
+"One more day."
+
+"I don’t even know what I’d do if I left."
+
+"Sleep in? Eat alone?"
+
+"...Yeah."
+
+scene black with fade
+pause 3
+
+jump day3_morning

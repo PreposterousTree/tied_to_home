@@ -103,7 +103,7 @@ Game Design Document Outline
 
 9. Asset Management
 	9.1. Render naming
-		9.1.1. [scene]_[character(s)]_[pose/action]_[angle/frame]_[variant]
+		9.1.1. [location]_[character(s)]_[pose/action]_[angle/frame]_[variant]
 		9.1.2. Ex: home_cal_bella_couchtalk_01.webp 
 	9.2. Script naming
 		9.2.1. [chapter]_[scene]_[location/character]

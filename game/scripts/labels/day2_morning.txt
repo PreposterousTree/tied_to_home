@@ -1,0 +1,135 @@
+label day2_morning:
+
+# Bedroom
+scene bedroom_c_sleeping_wide_01 with fade
+play music "home.ogg" fadein 1.5
+
+"Already?"
+
+"Did I even sleep, or just blink and land in hell again?"
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"Feels like I just closed my eyes."
+
+"My back feels like I lost a fight with this mattress."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"The worst part about Mondays isn’t the work. It’s knowing I’ve got five more lined up behind it."
+
+"I should get up. But the bed feels like it has a gravitational pull."
+
+scene bedroom_c_sitting_bed_01 with dissolve
+
+"Still here. Still tired. Still not packed."
+
+"And somehow still pretending this week will be different."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"One foot in front of the other, I guess."
+
+"Fake it, then repeat."
+
+# Bathroom
+scene bathroom_c_shower_wide_01 with fade
+
+"Hot water. Best part of the day."
+
+"It doesn’t fix anything. But it makes pretending easier."
+
+scene bathroom_c_shower_close_01 with dissolve
+
+"…"
+
+"Wish I could rinse off the part of me that keeps staying."
+
+"Wish I could rinse off the part of me that wants to."
+
+# Dining Room
+scene dining_l_tired_table_01 with fade
+
+l "You’re actually up on time. Who bribed you?"
+
+l "Don’t tell me you joined a sunrise cult or something."
+
+scene kitchen_b_cooking_stove_side_01 with dissolve
+
+b "Of course he didnt. I just made breakfast like usual."
+
+b "He probably smelled food and rose from the dead."
+
+scene dining_clb_seated_table_wide_01 with dissolve
+
+mc "Don’t act like this isn’t a miracle."
+
+mc "You’re both witnessing history."
+
+l "You want a miracle? Try cooking next time."
+
+l "Or doing dishes without whining."
+
+scene dining_b_smile_faint_01 with dissolve
+
+b "Be nice. He just woke up."
+
+b "Besides, I like cooking."
+
+scene dining_c_reflect_soft_01 with dissolve
+
+mc "Technically, I’ve been awake since the birds started screaming."
+
+mc "They’ve got a hell of a work ethic."
+
+l "They scream less when you sleep more."
+
+mc "Noted."
+
+l "And they don’t have to go to a job they hate."
+
+mc "Maybe I’ll scream back next time."
+
+scene dining_b_proud_food_table_01 with dissolve
+
+b "Eat up, both of you. I packed lunches too."
+
+l "You’re a menace. And an angel."
+
+b "It's nothing fancy. Just something that won’t kill you."
+
+l "How did I end up raising someone more competent than me?"
+
+# Entryway
+scene entry_cb_enter_01 with fade
+
+b "Here. Don’t forget this."
+
+b "And don’t drop it like last time."
+
+scene entry_cb_lunch_pass_01 with dissolve
+
+mc "Thanks."
+
+mc "It should be safe in my extremely responsible hands."
+
+scene entry_cb_exit_01 with dissolve
+
+b "Have a good day, okay?"
+
+b "And try not to look like you hate life until after lunch."
+
+mc "I’ll try."
+
+b "Text me if you need anything, okay?"
+
+mc "Don’t worry. I’ll survive."
+
+"Even if I don’t want to."
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+
+jump day2_afternoon
