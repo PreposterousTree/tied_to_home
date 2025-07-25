@@ -1,0 +1,2 @@
+inner door moves +/- 14 clicks
+outer door moves +/- 7 clicks

@@ -1,0 +1,7 @@
+Map:
+	Japanese Steak House - dinner date
+	[2155X] Apartment - LI's apartment (not bedroom)
+	Public toilet - men's restroom
+
+Item:
+	modern-bedroom-baking5 - LI'a apartment (living / kitchen)

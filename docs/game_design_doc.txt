@@ -1,0 +1,153 @@
+Game Design Document Outline
+
+1. Title Page
+	1.1. Game Name: Tied to Home
+	1.2. Tag Line: He was ready to leave it all behind—until home gave him a reason to stay.
+	1.3. Summary: Caillen “Cal” Waters is burnt out—emotionally, mentally, and physically drained by the grind of a thankless job and a life that feels like it’s going nowhere. He’s ready to pack up and start over somewhere new, anywhere but here. | But the house he never left—shared with the daughter of his late landlord, her daughter, and their chaotic circle—has other plans. As Cal begins to reconnect with the people quietly orbiting his life, he discovers warmth, affection, and maybe even love in the most unexpected places. | Tied to Home is a feel-good, emotionally intimate adult visual novel about family-style bonding, unconventional romance, and the slow realization that sometimes, everything you need is already under your roof.
+	1.4. Developer: PreposterousTree
+	1.5. XX/XX/XX
+
+2. Game Overview
+	2.1. Style: Modern, slice-of-life, harem
+	2.2. Theme: Tied to Home focuses on emotional intimacy, found family, and the soft domestication of an overworked man into a deeply loved centerpiece of an unconventional household. Themes include love through acts of service, late sexual awakening, identity through connection, and the healing power of affection.
+	2.3. Tags: Harem • Age Gap • Power-Exchange • Roleplay • Pet Play • Brat Taming • Praise Kink • Toys • Blindfolds • Anal • Bondage • Oral Fixation • Watersports • Masochism • Squirting • Sleep Sex • CNC • Pregnancy • No NTR • No Femdom
+
+3. Technical Details
+	3.1. Kinetic Novel with kink choices
+	3.2. 3DCG
+	3.3. Andriod: maybe
+	3.4. Core of 7 girls with maybe some minor sexual encounters?
+
+5. Story and Narrative
+	5.1. Back story: see summary
+	5.2. Developments: see end of Cailen page
+	5.3. Ending: Harem “marriage” and pregnancies / births
+
+6. Game World
+	6.1. Modern (Japan feel?)
+	6.2. Areas
+	6.2.1. Home
+		6.2.1.1. Small house where MC, Lilith, and Bella live.
+		6.2.1.2. Ryder and Sophia often visit.
+		6.2.1.3. Living room | kitchen | dining room | bathroom | bedrooms (MC)(L)(B) | front porch | hallway 
+	6.2.2. Work
+		6.2.2.1. Mid-sized design firm.
+		6.2.2.2. MC is an accountant. Coworkers are Naomi, a graphic designer, and Amanda, a new intern at reception.
+		6.2.2.3. Reception | bullpen | conference room | break room | hallway | elevator 
+	6.2.3. Mary’s House
+		6.2.3.1. Next door to MC home.
+		6.2.3.2. Front porch | living room | bedroom (M) | dungeon
+	6.2.4. School
+		6.2.4.1. Highschool
+		6.2.4.2. Bella, Ryder and Sophia are students here.
+		6.2.4.3. Classroom | hallway | stairwell | rooftop seating area
+	6.2.5. Cafe
+		6.2.5.1. Lilith works here at breakfast time.
+		6.2.5.2. Date spot | Sometimes the girls stop here after school
+		6.2.5.3. Dining room | bathroom | breakroom
+	6.2.6. Corner Store
+		6.2.6.1. Lilith works here at night.
+		6.2.6.2. Great spot to bump into people.
+	6.2.7. Misc
+		6.2.7.1. Date spots or meet-ups.
+		6.2.7.2. Park | Sidewalk | etc.
+
+7. Characters.
+	7.1. Cailen “Cal” Waters
+		7.1.1. MC
+		7.1.2. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.c0gli7iv135a
+	7.2. Lilith “Lily” Stone
+		7.2.1. Roommate
+		7.2.2. Tsundere
+		7.2.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.3b93jsphasdb
+	7.3. Isabella “Bella” Stone
+		7.3.1. Lilith’s daughter
+		7.3.2. Caretaker
+		7.3.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.cu66i8xi2gng
+	7.4. Maxine “Ryder” Ryder
+		7.4.1. Bella’s best friend
+		7.4.2. Brat
+		7.4.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.f8yv6od6tx5s
+	7.5. Sophia Marx
+		7.5.1. Bella and Ryder’s friend
+		7.5.2. Submissive
+		7.5.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.tixn3tyddmp1
+	7.6. Naomi Little
+		7.6.1. Cal’s coworker
+		7.6.2. Vanilla
+		7.6.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.xf6cxipgcxmr
+	7.7. Amanda Daniels
+		7.7.1. Cal’s coworker
+		7.7.2. Switch
+		7.7.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.2ghj61saa3hs
+	7.8. Mary Bordeaux
+		7.8.1. Lilith’s godmother
+		7.8.2. Rope bunny
+		7.8.3. https://docs.google.com/document/d/1ZEKnpQFQYj9cq4xLdwZBaytvfOsFScd4nuwUyqlGIa8/edit?tab=t.luk5uqoxrlwe
+
+8. Gameplay Structure
+	8.1. Systems
+	8.1.1. Ren’py
+	8.1.2. Honey Select 2
+	8.1.3. Mod
+	8.2. Elements
+		8.2.1. Story driven progression
+		8.2.2. Update progression: week based
+		8.2.3. Limited player choices (kink toggles)
+	8.3. Audio, music, sound effects (need to find)
+	8.4. Gallery System
+	8.5. Support: (setup patreon / other one / discord)
+	8.6. Update frequency
+		8.6.1. Hope: Monthly - Bi-monthly
+		8.6.2. Realistic: Once every 3-5 months
+
+9. Asset Management
+	9.1. Render naming
+		9.1.1. [scene]_[character(s)]_[pose/action]_[angle/frame]_[variant]
+		9.1.2. Ex: home_cal_bella_couchtalk_01.webp 
+	9.2. Script naming
+		9.2.1. [chapter]_[scene]_[location/character]
+		9.2.2. ch01_home_intro.rpy
+	9.3. Character cards
+		9.3.1. [Name]_[Age]_[Role/Tag]
+		9.3.2. Lilith_34_Roommate.png
+	9.4. Audio Files
+		9.4.1. [tracktype]_[scene or emotion]_[descriptor]
+		9.4.2. Bgm_home_evening_chill.mp3
+
+10. Road Map
+	10.1. v0.1
+		10.1.1. LIs introduced: Lilith, Bella, Naomi
+		10.1.2. Sunday: Core household introduced
+		10.1.3. Weekdays:
+			10.1.3.1. Work introduced, including Naomi
+			10.1.3.2. Bella caring for tired MC
+			10.1.3.3. MC concern for Lily’s health on porch
+			10.1.3.4. Tired MC leads to H-scene with Bella
+		10.1.4. Saturday: Bella acts like everything is normal the next day.
+	10.2. v0.2
+		10.2.1. LIs introduced: Ryder and Sophia
+		10.2.2. Sunday: Lilith and MC argument leads to kiss
+		10.2.3. Weekdays:
+			10.2.3.1. Ryder and Sophia come over
+			10.2.3.2. Sophia asks for help studying math (start next week)
+			10.2.3.3. Lilith works overnight, Bella stays with you.
+			10.2.3.4. Punishment game
+		10.2.4. Saturday: Girls stayed the night and Sophia snuck into your bed (for warmth)
+	10.3. v0.3 
+		10.3.1. LIs introduced: Amanda and Mary
+		10.3.2. Saturday: Family does something together
+		10.3.3. Weekdays:
+			10.3.3.1. Mary introduced after work
+			10.3.3.2. MC helps Lilith at convenience store (gets paid with handjob)
+			10.3.3.3. New intern introduced (Amanda)
+			10.3.3.4. Sophia study starts (maths)
+		10.3.4. Sunday: Bella date
+	10.4. v0.4 
+		10.4.1. Saturday: Family does something together
+		10.4.2. Weekdays:
+			10.4.2.1. 
+			10.4.2.2. 
+			10.4.2.3. 
+			10.4.2.4. 
+		10.4.3. Sunday: 
