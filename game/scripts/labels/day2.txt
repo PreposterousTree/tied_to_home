@@ -1,0 +1,415 @@
+label day2_morning:
+
+# Bedroom
+scene bedroom_c_sleeping_wide_01 with fade
+play music "home.ogg" fadein 1.5
+
+"Already?"
+
+"Did I even sleep, or just blink and land in hell again?"
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"Feels like I just closed my eyes."
+
+"My back feels like I lost a fight with this mattress."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"The worst part about Mondays isn’t the work. It’s knowing I’ve got five more lined up behind it."
+
+"I should get up. But the bed feels like it has a gravitational pull."
+
+scene bedroom_c_sitting_bed_01 with dissolve
+
+"Still here. Still tired. Still not packed."
+
+"And somehow still pretending this week will be different."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"One foot in front of the other, I guess."
+
+"Fake it, then repeat."
+
+# Bathroom
+scene bathroom_c_shower_wide_01 with fade
+
+"Hot water. Best part of the day."
+
+"It doesn’t fix anything. But it makes pretending easier."
+
+scene bathroom_c_shower_close_01 with dissolve
+
+"…"
+
+"Wish I could rinse off the part of me that keeps staying."
+
+"Wish I could rinse off the part of me that wants to."
+
+# Dining Room
+scene dining_l_tired_table_01 with fade
+
+l "You’re actually up on time. Who bribed you?"
+
+l "Don’t tell me you joined a sunrise cult or something."
+
+scene kitchen_b_cooking_stove_side_01 with dissolve
+
+b "Of course he didnt. I just made breakfast like usual."
+
+b "He probably smelled food and rose from the dead."
+
+scene dining_clb_seated_table_wide_01 with dissolve
+
+mc "Don’t act like this isn’t a miracle."
+
+mc "You’re both witnessing history."
+
+l "You want a miracle? Try cooking next time."
+
+l "Or doing dishes without whining."
+
+scene dining_b_smile_faint_01 with dissolve
+
+b "Be nice. He just woke up."
+
+b "Besides, I like cooking."
+
+scene dining_c_reflect_soft_01 with dissolve
+
+mc "Technically, I’ve been awake since the birds started screaming."
+
+mc "They’ve got a hell of a work ethic."
+
+l "They scream less when you sleep more."
+
+mc "Noted."
+
+l "And they don’t have to go to a job they hate."
+
+mc "Maybe I’ll scream back next time."
+
+scene dining_b_proud_food_table_01 with dissolve
+
+b "Eat up, both of you. I packed lunches too."
+
+l "You’re a menace. And an angel."
+
+b "It's nothing fancy. Just something that won’t kill you."
+
+l "How did I end up raising someone more competent than me?"
+
+# Entryway
+scene entry_cb_enter_01 with fade
+
+b "Here. Don’t forget this."
+
+b "And don’t drop it like last time."
+
+scene entry_cb_lunch_pass_01 with dissolve
+
+mc "Thanks."
+
+mc "It should be safe in my extremely responsible hands."
+
+scene entry_cb_exit_01 with dissolve
+
+b "Have a good day, okay?"
+
+b "And try not to look like you hate life until after lunch."
+
+mc "I’ll try."
+
+b "Text me if you need anything, okay?"
+
+mc "Don’t worry. I’ll survive."
+
+"Even if I don’t want to."
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day2_afternoon
+
+label day2_afternoon:
+
+# Reception
+scene reception_c_arrive_door_01 with fade
+play music "work.ogg" fadein 1.5
+
+"Back to the grind."
+
+"Every Monday I wonder if today’s the day I don’t come back."
+
+"Then I remember: bills, food, responsibilities… and Frank."
+
+scene reception_cf_greeting_01 with dissolve
+
+f "There he is! Mr. Monday Morning Regret!"
+
+f "Looking like a man who slept in his worries."
+
+mc "You say that like it’s not your nickname too."
+
+mc "Besides, I’m just trying to match the office aesthetic - dead inside."
+
+scene reception_cf_walk_in_01 with dissolve
+
+f "Difference is, I embrace it. Regret’s just foreplay for beer."
+
+f "Speaking of which, Friday. Drinks. You in?"
+
+mc "We’ll see if I make it that far."
+
+"Frank Lloyd. Man's in his late fifties. Been working together for almost a decade."
+
+"He's loud by default and after years of smoking he's got a voice like a busted speaker. And he's a man with a face made for radio."
+
+"Frank’s a bachelor by choice. At least now. He's been married and divorced 3 times."
+
+"And he's the closest thing I’ve got to a friend in this place."
+
+# Bullpen
+scene bullpen_cf_enter_01 with fade
+
+f "So how’s the home life, huh? Girls still pretending you're the man of the house?"
+
+f "Or have they staged a coup yet?"
+
+mc "They don’t pretend. They’re just polite enough not to point out I’m not."
+
+mc "Pretty sure even the TV outranks me."
+
+scene bullpen_cf_desk_stand_01 with dissolve
+
+f "Polite girls? At your place? Can I move in?"
+
+f "I’ll bring charm and zero domestic skills."
+
+mc "No vacancy. And you'd get eaten alive."
+
+mc "Probably by breakfast."
+
+f "Bah, I’d die happy. Probably smothered under a mountain of sass and sarcasm."
+
+mc "Better than paperwork."
+
+mc "But barely."
+
+f "Speak for yourself. These invoices don’t sass me. They just ignore me like my ex-wife."
+
+f "Or my second one. Or the third…"
+
+scene bullpen_c_working_01 with fade
+
+"Frank finally wandered off. Small blessings."
+
+"Time to get some actual work done."
+
+scene bullpen_c_focus_desk_01 with dissolve
+
+"I'm an accountant for a design firm. But it sounds flashier than it is."
+
+"Mostly it’s spreadsheets, reports, and making sure someone’s modern art passion project doesn’t bankrupt the company."
+
+scene bullpen_c_sitting_head_down_01 with dissolve
+
+"Every day feels like the last. Same chair. Same screen. Same countdown to five o’clock."
+
+"Some days I wonder if I chose this job... or just never left it."
+
+"Design sounds exciting. But I’m the guy who tells them no."
+
+"No, you can’t afford that sculpture. No, the LED floor tiles aren’t in budget."
+
+"It’s thankless. But I guess that’s the job."
+
+# Naomi enters
+scene bullpen_cn_desk_01 with dissolve
+
+n "Uhm... hey, Cal?"
+
+n "Sorry... are you busy?"
+
+scene bullpen_cn_desk_talk_01 with dissolve
+
+"Naomi Little. She's a graphic designer with a soft voice and softer heart."
+
+"She sees things other people miss. Including me."
+
+scene bullpen_cn_desk_talk_shy_01 with dissolve
+
+n "I was wondering... would you want to eat lunch together today?"
+
+n "If you’re not already meeting someone."
+
+scene bullpen_cn_desk_talk_02 with dissolve
+
+mc "Yeah. That sounds nice."
+
+mc "Thanks for asking."
+
+n "Okay. Um... breakroom?"
+
+n "I grabbed a corner table."
+
+mc "Lead the way."
+
+# Breakroom
+scene breakroom_cn_enter_01 with fade
+
+n "I brought extra salad. Hope that’s okay."
+
+n "I kind of over-packed again."
+
+scene breakroom_cn_sit_01 with dissolve
+
+mc "Honestly, if it’s not instant noodles, I’m grateful."
+
+n "You should eat better."
+
+n "You look... tired."
+
+scene breakroom_c_smile_01 with dissolve
+
+mc "You sound like someone I live with."
+
+mc "She says the same thing."
+
+mc "She gave me something to bring. Since your sharing I should too."
+
+scene breakroom_n_smile_01 with dissolve
+
+n "She must care about you."
+
+n "A lot."
+
+scene breakroom_cn_eat_01 with dissolve
+
+"She does. They all do."
+
+"Naomi doesn’t say much. But when she does, it sticks."
+
+"There’s something about how she listens... like it matters."
+
+"Feels strange, being noticed."
+
+# Bullpen – End of Day
+scene bullpen_c_sit_desk_tired_01 with fade
+
+"Work’s done. For now."
+
+"Time to go home... whatever that means lately."
+
+scene bullpen_c_leave_01 with dissolve
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day2_evening
+
+label day2_evening:
+
+# Entryway
+scene entry_c_enter_02 with fade
+
+"Home again. Not sure if that’s a comfort or a curse."
+
+scene entry_cb_enter_01 with dissolve
+
+b "Hey. Welcome back."
+
+scene entry_cb_lunch_pass_01 with dissolve
+
+b "Did you eat everything?"
+
+mc "Yeah. Thanks again."
+
+mc "The note was… nice."
+
+scene entry_cb_blush_01 with dissolve
+
+b "I didn’t think you’d mention it."
+
+# Living Room
+scene livingroom_c_sitting_02 with fade
+
+"Too tired to think. Too tired to move. But I’m still here."
+
+"My shoes are still on. That feels like too much effort right now."
+
+"The cushions feel like they’re pulling me under."
+
+scene living_cb_sofa_approach_01 with dissolve
+
+b "Long day?"
+
+mc "Mh."
+
+b "You okay?"
+
+mc "Mh."
+
+b "You’re really wiped out, huh?"
+
+mc "Mh."
+
+scene living_cb_shoulder_massage_01 with dissolve
+
+mc "Mmh."
+
+b "That feels nice huh?"
+
+mc "Mmmmmh... yeah it does."
+
+mc "You’re good at this."
+
+b "Good at what?"
+
+mc "Mmmmh..."
+
+mc "Knowing when to say something. Or when not to."
+
+b "That’s just practice. With you, anyway."
+
+mc "Mh."
+
+b "You know… if you let yourself fall apart once in a while, someone might catch you."
+
+scene living_cb_shoulder_massage_02 with dissolve
+
+"…"
+
+"I don’t know what to say to that."
+
+# Bedroom
+scene bedroom_c_eyes_open_01 with fade
+stop music fadeout 2.0
+
+"I’m still not packed."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"I should’ve gone by now."
+
+scene bedroom_c_arm_over_eyes_01 with dissolve
+
+"But I didn’t."
+
+scene bedroom_ceiling_02 with dissolve
+
+"One more day."
+
+"I don’t even know what I’d do if I left."
+
+"Sleep in? Eat alone?"
+
+"...Yeah."
+
+scene black with fade
+pause 3
+
+jump day3_morning

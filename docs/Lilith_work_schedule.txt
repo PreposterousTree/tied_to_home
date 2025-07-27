@@ -1,3 +1,0 @@
-				Sun	|  Mon	| Tues	|  Wed	| Thurs	|  Fri	|  Sat	
-Diner:			 X						X				X		X
-Corner store:			X		X						X		X

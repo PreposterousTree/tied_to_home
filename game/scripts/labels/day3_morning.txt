@@ -1,0 +1,171 @@
+label day3_morning:
+
+# Bedroom
+scene bedroom_c_sleeping_wide_01 with fade
+play music "home.ogg" fadein 1.5
+
+"Tuesday."
+
+"Already?"
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"Feels like I just blinked and it’s morning again."
+
+"The carousel just keeps turning..."
+
+scene bedroom_c_sitting_bed_01 with dissolve
+
+"My whole body’s dragging. Like I never even slept."
+
+"And this morning chub is annoying."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"I need a shower. Strong enough to blast the fog out of my brain."
+
+scene bedroom_c_stand_bed_01 with dissolve
+
+"Maybe it’ll wake up whatever’s left of me."
+
+"Maybe it will give me a chance to take care of junior too."
+
+# Bathroom – Enter
+scene bathroom_c_enter_rub_eyes_01 with fade
+
+"Eyes feel like they're glued shut."
+
+"I guess I need to rinse my face first."
+
+scene bathroom_c_sink_mirror_01 with dissolve
+
+"Is the shower already on?"
+
+scene bathroom_cl_shower_rinse_01 with dissolve
+
+"... Is that Lilith?"
+
+scene movie lilith_shower_loop.ogv loop
+with dissolve
+
+scene bathroom_l_shower_rinse_01 with dissolve
+
+"She didn’t even lock the door."
+
+"God, she’s in there. Steam curling around her like I'm in a damn dream."
+
+scene bathroom_l_shower_rinse_02 with dissolve
+
+"That curve—"
+
+"Don’t."
+
+"But damn, she looks—"
+
+"Just turn around. Just stop staring and—"
+
+scene bathroom_cl_shower_caught_01 with dissolve
+
+l "What the hell?!"
+
+scene bathroom_cl_shower_cover_01 with dissolve
+
+l "Turn around! Now!"
+
+scene bathroom_cl_turn_away_01 with dissolve
+
+"Shit—Sorry!"
+
+l "Unbelievable."
+
+scene bathroom_cl_shower_towel_wrap_01 with dissolve
+
+l "What the hell were you thinking?"
+
+scene bathroom_cl_towel_face_01 with dissolve
+
+"It was an..."
+
+scene bathroom_cl_slap_01 with flash
+
+scene bathroom_cl_lean_back_slap_01 with dissolve
+
+l "Don’t talk to me."
+
+scene bathroom_l_exit_bathroom_01 with dissolve
+
+mc "..."
+
+mc "Well. That could’ve gone worse. Barely."
+
+# Shower – Solo
+scene bathroom_c_shower_wide_01 with fade
+
+"I still need to shower. Bad situations don't stop life from going on."
+
+Scene bathroom_c_shower_close_01 with dissolve
+
+mc "Junior why are at full mast now? I mean I know she's attractive, but still."
+
+mc "Well I guess I still need to deal with this."
+
+scene bathroom_c_shower_lean_01 with dissolve
+play music "sex.ogg" fadein 1.5
+
+mc "Just get it out of your system."
+
+scene bathroom_c_shower_masturbating_start_01 with dissolve
+
+mc "Can’t go to breakfast like this."
+
+scene bathroom_c_shower_masturbating_end_01 with dissolve
+
+mc "Supermodel. Think of a supermodel."
+
+mc "Golden tan. Legs up to heaven. That big, fake smile."
+
+scene bathroom_c_shower_masturbating_mid_01 with dissolve
+
+mc "Oh yeah gorgeous. just like that."
+
+scene bathroom_cl_shower_rinse_01 with dissolve
+stop music
+
+mc "...Shit. Not her."
+
+scene white with Dissolve(0.05)
+scene white with Dissolve(0.05)
+scene white with Dissolve(0.05)
+
+mc "Fffffuck—"
+
+scene bathroom_c_shower_lean_01 with dissolve
+
+mc "Shit."
+
+mc "That was... more intense than usual."
+
+# Bedroom – Getting Dressed
+scene bedroom_c_stand_01 with fade
+play music "home.ogg" fadein 1.5
+
+mc "Why did I think of her at that moment?"
+
+mc "I really need to get my head on straight."
+
+mc "And not picture her every time I close my eyes."
+
+scene bedroom_c_shirt_adjust_01 with dissolve
+
+"Coffee first. Then figure out how to live with myself."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"Don't bring it up. Don’t even look at her."
+
+"Just act normal."
+
+scene black with fade
+pause 1
+
+jump day3_breakfast

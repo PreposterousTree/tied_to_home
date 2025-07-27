@@ -72,4 +72,7 @@ scene living_cb_sitting_look_at_each_other_behind_01
 
 "Her smiled is always so warm. She is never upset about having to do the chores."
 
+scene black with fade
+pause 1
+
 jump day1_afternoon

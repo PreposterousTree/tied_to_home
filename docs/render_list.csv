@@ -1,19 +1,31 @@
-Render Filename,			Description
+Render,								Description
+
+#Other
+##Misc
+white,								white screen render
+black,								bleck screen render
+
+##Movies
+lilith_shower_loop,					lilith in shower movie
+
 
 #Home
 ##Bedroom
 bedroom_c_sleeping_wide_01,			Wide shot Cal lying in bed sleeping
 bedroom_c_eyes_open_01,				Cal laying in bed awake
 bedroom_c_arm_over_eyes_01,			Cal lying his arm over eyes
-bedroom_c_laying_side_01,			Cal lying down, facing side
+bedroom_c_laying_side_01,			Cal lying down facing side
 bedroom_front_wall_01,				Bedroom front wall
 bedroom_c_sitting_bed_01,			Cal sitting on side of bed
 bedroom_suitcase_close_01,			Close-up of suitcase
-bedroom_c_looking_down_01,			Cal looking down, sitting on bed
+bedroom_c_looking_down_01,			Cal looking down sitting on bed
 bedroom_ceiling_01,					Shot of Cal's cieling day
 bedroom_ceiling_02,					Dark version
 bedroom_c_stand_bed_01,				Cal standing by bed
 bedroom_c_hand_through_hair_01,		Cal running hand through hair
+bedroom_c_stand_01,					Cal standing in middle of room
+bedroom_c_shirt_adjust_01,			Cal same as stand_01 but is looking down with hands on bottom of shirt
+bedroom_c_thought_smile_01,			Cal lying in bed with a smile on
 
 ##Kitchen
 kitchen_empty_wide_01,						Morning light in kitchen empty room
@@ -34,6 +46,29 @@ dining_c_reflect_soft_01,			Cal sitting at dining table pensive or relfecting lo
 dining_l_faint_smile_01,			Lilith with faint soft smile sitting at dining table
 dining_b_proud_food_table_01,		Breakfast on plates Bella content
 dining_clb_dinner_end_01,			Cal Lilith Bella sitting at dining table empty plates
+dining_b_giggle_01,					Bella sitting table giggling
+dining_b_smirk_plate_01,			smirking version of bring_breakfast
+dining_c_awkward_cup_01,			Cal with cup awkward look
+dining_c_smile_01,					Same position as reflect_soft but smiling
+dining_b_fork_01,					Bella at table holding fork
+dining_b_fork_drop_01,				Fork by Bella's chair
+dining_b_fork_reach_01,				Bella on ground grabing fork looking down
+dining_cb_kitchen_pass_01,			Cal into dining Bella in kitchen
+dining_cb_plate_pass_01,			Bella passing plate to Cal
+dining_l_coffee_sip_01,				Lilith sipping coffee
+dining_l_glare_mug_01,				Lilith glaring sideways over mug
+dining_cb_sit_01,					Cal Bella 
+dining_cb_talk_01,					Cal Bella breakfast talking
+dining_cb_smile_01,					Cal Bella breakfast Bella smiling
+dining_cb_giggle_01,				Cal Bella breakfast Bella giggling
+dining_cl_table_01,					Cal Lilith sitting at table
+dining_cb_plate_pass_02,			Version dinner
+dining_clb_table_01,				Cal Lilith Bella sitting at table with dinner
+dining_cb_talk_01,					Cal Bella sitting and talking
+dining_clb_talk_01,					Cal Lilith Bella talking at table
+dining_clb_talk_02,					Another angle with dinner
+dining_clb_talk_03,					Another angle Lilith snarky
+dining_clb_eat_dinner_01,			Cal Lilith Bella eat dinner not talking
 
 ##Living Room
 living_c_enter_01,									Cal entering the room
@@ -49,7 +84,7 @@ livingroom_c_sitting_01,							Cal sitting on the couch
 livingroom_c_sitting_02,							Version with arms on back and head leaned back eyes closed
 living_cb_sofa_approach_01,							Cal sitting on sofa Bella standing behind sofa
 living_cb_shoulder_massage_01,						Cal in position of sitting_02 Bella massaging shoulders
-living_cb_shoulder_massage_03,						Version with cal's eyes open and head straight up
+living_cb_shoulder_massage_02,						Version with cal's eyes open and head straight up
 livingroom_b_enters_glass_01,						Bella enters living room with water
 livingroom_b_sets_glass_01,							Bella sits glass on coffee table
 livingroom_b_exit_01,								Bella exits living room
@@ -57,11 +92,33 @@ livingroom_c_glass_stare_01,						Cal looks at glass on table
 living_clb_sofa_sit_01,								Cal Lilith Bella sitting on couch Bella between Cal and Lilith
 living_b_remote_grab_01,							Bella grabbing remote from coffee table from behind
 living_clb_b_remote_01,								Cal Lilith Bella sitting on couch Bella with remote
-living_clb_sofa_cuddle_01,							Cal Lilith Bella with Bella cuddled into Cal's side
+living_clb_sofa_cuddle_01,							Cal Lilith Bella with Bella cuddled with Cal
+living_cb_cheek_kiss_01,							Bella leaning over kissing Cal cheek
+living_cb_sit_next_01,								Bella sitting next to Cal
+living_cb_snuggle_01,								Bella snuggled up to Cal side 
+living_cb_thigh_rub_01,								Bella sitting next to Cal rubbing his thigh
+living_cb_water_01,									Bella hands glass to Cal
 
 ##Bathroom
-bathroom_c_shower_wide_01,			Cal in shower facing shower head wide shot
-bathroom_c_shower_close_01,			Cal in shower facing tub close shot
+bathroom_c_shower_wide_01,					Cal in shower facing shower head wide shot
+bathroom_c_shower_close_01,					Cal in shower facing tub close shot
+bathroom_c_enter_rub_eyes_01,				Facing Cal entering bathroom rubbing eyes
+bathroom_c_shower_lean_01,					Cal in shower leaning against tile
+bathroom_c_shower_masturbating_mid_01,		Cal masturbating hand at middle
+bathroom_c_shower_masturbating_end_01,		Cal masturbating hand at end
+bathroom_c_shower_masturbating_start_01,	Cal masturbating hand at base
+bathroom_c_sink_mirror_01,					Cal at the sink
+bathroom_cl_lean_back_slap_01,				Lilith stand in front of Cal leaning back holding face
+bathroom_cl_shower_caught_01,				Lilith shower surprised Cal facing her
+bathroom_cl_shower_cover_01,				Lilith shower covering herself Cal facing her
+bathroom_cl_shower_rinse_01,				Cal looking at Lilith in shower
+bathroom_l_shower_rinse_01,					Lilith in shower facing side eyes closed
+bathroom_l_shower_rinse_02,					Lilith shower bent over rinsing legs
+bathroom_cl_shower_towel_wrap_01,			Lilith towel Cal facing away
+bathroom_cl_slap_01,						Lilith leaning forward in a towel slapping Cal
+bathroom_cl_turn_away_01,					Lilith shower covering herself Cal facing away
+bathroom_cl_towel_face_01,					Lilith towel Cal facing her
+bathroom_l_exit_bathroom_01,				Lilith exiting
 
 ##Entry
 entry_c_enter_01,					Cal enters home
@@ -69,10 +126,31 @@ entry_c_enter_02,					Tired version
 entry_cb_enter_01,					Cal Bella with Cal facing away from front door towards Bella who is facing Cal
 entry_cb_lunch_pass_01,				Cal Bella same location as enter but Cal and Bella are passing a packed lunch between them
 entry_cb_exit_01,					Cal Bella with Cal facing the front door and Bella behind him facing the same way
-entry_cb_blush_01,					Cal Bella same position as enter with Bella facing away from Cal while blushing
+entry_cb_blush_01,					Cal Bella same position as enter with Bella looking away from Cal while blushing
+entry_c_groan_01,					Cal facing away from front door with han on face
+entry_cb_exit_giggle_01,			Bella walking away from Cal while giggling
+entry_cb_smile_01,					enter_01 with both smiling
+entry_l_stairs_pass_01,				Lilith walking up stairs from front door perspective
+entry_c_rub_eyes_01,				Cal rubbing his eyes on the way to the bathroom
+entry_cl_bathroom_exit_01,			Lilith exiting the bathroom in towel Cal facing bathroom
+entry_cl_reaction_stare_01,			same position as bathroom_exit side angle Cal staring at Lilith
+entry_l_stairs_up_01,				Lilith walking up stairs in towel
+entry_cl_reaction_talk_02,			Lilith walking towards stairs from bathroom in towel Cal talking to her
+entry_c_sigh_01,					Cal standing bwteen bedroom and bathroom sighing
+entry_c_towel_exit_01,				Cal exiting bathroom in towel
+entry_l_exit_01,					Lilith exiting house in diner uniform
+entry_l_stairs_down_01,				Lilith walking down stairs in diner uniform
 
 ##Outside
-
+porch_cl_smoking_wide_01,			Cal approaching porch Lilith smoking wide angle from side
+porch_cl_smoking_01,				Cal Lilith smoking cigarette to mouth
+porch_cl_smoking_02,				Cal Lilith smoking cigarette down
+porch_cl_smoking_03,				Cal Lilith putting out cigarette
+porch_cl_blush_01,					Cal Lilith blushing
+porch_cl_punch_01,					Lilith punching Cal
+porch_cl_enter_01,					Lilith entering house Cal facing Lilith 
+porch_c_enter_01,					Cal facing front door
+porch_c_smile_01,					Cal smiling while looking at house
 
 ##Lilith's Bedroom
 
@@ -85,12 +163,13 @@ entry_cb_blush_01,					Cal Bella same position as enter with Bella facing away f
 reception_c_arrive_door_01,			Cal standing in reception facing away from the front door
 reception_cf_greeting_01,			Cal in same position as arrive Frank coming from bullpen with arm raised in greeting
 reception_cf_walk_in_01,			Cal Frank walking away from front door of reception
+reception_cf_talk_01,				Cal Frank talking in reception
 
 ##Bullpen
 bullpen_cf_enter_01,				Cal Frank walking into the bullpen from reception
 bullpen_cf_desk_stand_01,			Cal Frank standing by Cal's desk
 bullpen_c_working_01,				Cal sitting at his desk facing his computer
-bullpen_c_focus_desk_01,			Cal leaning in towards his monitor
+bullpen_c_focus_desk_01,			Cal leaning in towards his monitor hand on mouse hand on keyboard
 bullpen_c_sitting_head_down_01,		Cal sitting at his desk with his head down
 bullpen_cn_desk_01,					Cal in same position as working Naomi standing next to his desk
 bullpen_cn_desk_talk_01,			Cal sitting while facing Naomi who is in same position as cn_desk_01
@@ -98,6 +177,20 @@ bullpen_cn_desk_talk_shy_01,		Cal Naomi in same position as desk_talk with Naomi
 bullpen_cn_desk_talk_02,			Cal Naomi standing by Cal's desk talking
 bullpen_c_sit_desk_tired_01,		Cal sitting at his desk leaned back in his chair with his head tilted back
 bullpen_c_leave_01,					Cal walking towards reception from the bullpen
+bullpen_c_desk_note_01,				Cal standing at desk looking down at drawing coffee
+bullpen_c_desk_sigh_01,				Cal leaned back arms crossed
+bullpen_c_desk_sigh_02,				Cal hand on mouse and keyboard head down
+bullpen_c_desk_standing_01,			Cal standing at his desk
+bullpen_c_enter_01,					Cal entering bullpen
+bullpen_c_mark_documents_01,		Cal with documents on desk one in hand and pen in hand
+bullpen_c_mouse_click_01,			Cal with hand on mouse
+bullpen_c_sit_back_done_01,			Cal leaned back in chair with hands behind head
+bullpen_c_typing_error_01,			Cal hitting backspace on his keyboard agressively
+bullpen_c_typing_focus_01,			Cal leaned toward monitor slightly with hands on keyboard
+bullpen_c_desk_typing_01,			Cal typing on keyboard at desk
+bullpen_c_return_01,				Cal walking toward desk from breakroom
+bullpen_c_desk_note_02,				Version drawing is daydream
+bullpen_c_desk_smile_01,			Cal sitting at his desk with a smile facing computer
 
 ##Break Room
 breakroom_cn_enter_01,				Cal Naomi enter the breakroom
@@ -105,6 +198,20 @@ breakroom_cn_sit_01,				Cal Naomi sitting in breakroom
 breakroom_c_smile_01,				Cal sitting in breakroom smiling
 breakroom_n_smile_01,				Naomi sitting in breakroom smiling
 breakroom_cn_eat_01,				Cal Naomi same position as sit but with lunch
+breakroom_c_facepalm_01,			Cal facepalming
+breakroom_c_sigh_01,				Cal sitting with lunch head down
+breakroom_cf_enter_01,				Cal Frank entering
+breakroom_cf_soup_sip_01,			Cal sitting with lunch Frank sipping soup
+breakroom_cf_story_gesture_01,		Cal standing Frank gesturing with both arms mouth open 
+breakroom_cf_story_grin_01,			Cal sitting with lunch Frank grinning soup in hand
+breakroom_cf_story_laugh_01,		Cal sitting lunch Frank laughing
+breakroom_cf_story_start_01,		Cal Frank facing each other
+breakroom_c_enter_01,				Cal entering breakroom
+breakroom_c_sit_01,					Cal sitting with lunch
+breakroom_c_table_think_01,			Cal at table staring into space
+breakroom_c_table_lean_01,			Cal leaning over table with lunch
+breakroom_c_table_stare_01,			Cal leaning back in chair staring at table
+breakroom_c_sit_02,					Version different angle and different posture (for variety)
 
 ##Meeting Room
 

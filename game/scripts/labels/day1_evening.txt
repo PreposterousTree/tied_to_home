@@ -56,6 +56,7 @@ scene bedroom_ceiling_02 with dissolve
 "Why the hell am I still here?"
 
 scene black with fade
-pause 1
+stop music fadeout 2.0
+pause 3
 
 jump day2_morning

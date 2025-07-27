@@ -70,4 +70,7 @@ scene dining_b_proud_food_table_01 with dissolve
 
 "The food is good. But the comfort? That comes from the voices around the table."
 
+scene black with fade
+pause 1
+
 jump day1_chores

@@ -131,5 +131,4 @@ scene black with fade
 stop music fadeout 2.0
 pause 3
 
-
 jump day2_afternoon

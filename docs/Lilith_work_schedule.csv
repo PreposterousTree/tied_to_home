@@ -1,0 +1,3 @@
+location,		sunday,	monday,	tuesday, wednesday,	thursday, friday, saturday
+diner,				1,		0,		0,		1,			0,		1,		1
+corner store,		0,		1,		1,		0,			0,		1,		1

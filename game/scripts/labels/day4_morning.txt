@@ -1,0 +1,192 @@
+label day4_morning:
+
+# Bedroom
+scene bedroom_c_sleeping_wide_01 with fade
+play music "home.ogg" fadein 1.5
+
+"Wednesday."
+
+"Already?"
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"Pretty sure I just closed my eyes."
+
+"Why does this bed feel like it’s punishing me for something I can’t remember doing?"
+
+"Maybe today’s the day I finally pack the damn bag."
+
+scene bedroom_c_sitting_bed_01 with dissolve
+
+"Get up. Shower. Breathe. Run."
+
+"Or stall just long enough to do none of the above."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"One more day."
+
+"Maybe I’m just waiting for the world to make the decision for me."
+
+"Wouldn’t be the first time."
+
+# Entryway – Bathroom Encounter
+scene entry_c_rub_eyes_01 with fade
+
+"My eyes feel glued shut."
+
+"Maybe if I rinse my face, I’ll—"
+
+scene entry_cl_bathroom_exit_01 with dissolve
+
+"..."
+
+l "Too late, perv. The show’s already over."
+
+scene entry_cl_reaction_stare_01 with dissolve
+
+mc "Hey. Lilith... "
+
+mc "I wanted to say I’m sorry. About yesterday."
+
+scene entry_cl_reaction_talk_02 with dissolve
+
+mc "I didn’t mean to walk in on you."
+
+mc "I should’ve knocked. I usually do."
+
+scene entry_l_stairs_up_01 with dissolve
+
+mc "Nothing?"
+
+"Not even a glance."
+
+scene entry_c_sigh_01 with dissolve
+
+mc "...She’s that mad, huh?"
+
+mc "...Yeah. That’s fair."
+
+# Bathroom
+scene bathroom_c_shower_wide_01 with fade
+
+mc "...She didn’t even look at me."
+
+mc "That’s how mad she is."
+
+mc "Fair. Still stings, though."
+
+scene bathroom_c_shower_close_01 with dissolve
+
+mc "She always walks around like that?"
+
+mc "Like it’s normal?"
+
+mc "Like I’m not supposed to notice?"
+
+scene bathroom_c_shower_lean_01 with dissolve
+
+mc "Not the time, Junior.\n\nNot the time."
+
+mc "I need to get her out of my head before I walk into a wall."
+
+# Entryway – After Shower
+scene entry_c_towel_exit_01 with fade
+
+"..."
+
+scene entry_l_stairs_down_01 with dissolve
+
+"She’s already dressed."
+
+"No eye contact. No ‘bye.’"
+
+scene entry_l_exit_01 with dissolve
+
+"Guess breakfast wasn’t on the menu today."
+
+"Not even a sarcastic jab?"
+
+scene entry_c_sigh_01 with dissolve
+
+"Definitely mad."
+
+# Dining Room
+scene dining_cb_sit_01 with fade
+
+b "I was thinking of inviting a couple of friends over next week."
+
+mc "You planning something?"
+
+b "Just dinner. Maybe a movie night or something. It's been a while."
+
+mc "You already know where the chaos is gonna come from."
+
+b "That’s the fun part."
+
+scene dining_cb_talk_01 with dissolve
+
+b "Eat your eggs. I didn’t stand over a stove for half an hour to watch you mope."
+
+mc "You really waited?"
+
+b "Of course I did."
+
+mc "Sorry about your mom."
+
+b "What for?"
+
+mc "Just... how she’s been acting. Lately. This morning."
+
+b "She’s always like that."
+
+scene dining_cb_smile_01 with dissolve
+
+b "You’re just noticing more when there’s less towel."
+
+mc "I was trying not to."
+
+b "Try harder."
+
+mc "I swear I knocked."
+
+b "I’m sure Junior did too."
+
+scene dining_cb_giggle_01 with dissolve
+
+mc "You’re worse than she is."
+
+b "And yet you’re still sitting here."
+
+# Entryway
+scene entry_cb_lunch_pass_01 with fade
+
+b "Here. And no dropping it this time."
+
+mc "It was one time."
+
+b "Really?"
+
+mc "Okay maybe two."
+
+scene entry_cb_smile_01 with dissolve
+
+mc "Hey, um... thanks. For last night."
+
+scene entry_cb_blush_01 with dissolve
+
+b "It's nothing."
+
+mc "Seriously. It helped.
+
+mc "More than I thought it would."
+
+scene entry_cb_exit_giggle_01 with dissolve
+
+b "Dummy."
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day4_afternoon

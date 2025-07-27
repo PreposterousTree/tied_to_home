@@ -50,4 +50,7 @@ scene bedroom_c_hand_through_hair_01 with dissolve
 
 "One more day. I’ll stay one more day."
 
+scene black with fade
+pause 1
+
 jump day1_breakfast

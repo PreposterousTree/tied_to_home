@@ -1,0 +1,144 @@
+# Reception
+scene reception_c_arrive_door_01 with fade
+play music "work.ogg" fadein 1.5
+
+"Back to it."
+
+"New day. Same fluorescent graveyard."
+
+scene reception_cf_greeting_01 with dissolve
+
+f "You look like a man who lost a fight with a towel."
+
+scene reception_cf_talk_01 with dissolve
+
+f "And the towel won."
+
+mc "You're not wrong."
+
+f "Steam injury? Sudden case of shame?"
+
+mc "Emotional damage. Minor bruising. No witnesses."
+
+f "That’s the best kind."
+
+scene reception_cf_walk_in_01 with dissolve
+
+mc "You need help."
+
+f "I need a drink."
+
+f "Or a woman who cooks naked. But the drink's more realistic."
+
+mc "Please don’t put those images in my head before payroll meetings."
+
+f "Don’t blame me. I’m just trying to get you through the week."
+
+# Bullpen
+scene bullpen_c_enter_01 with fade
+
+"Focus."
+
+"Numbers. Deadlines. Totally not thinking about towels or silence or Bella saying 'dummy.'"
+
+scene bullpen_c_desk_typing_01 with dissolve
+
+"She didn’t even glance at me."
+
+"Didn’t even pause."
+
+scene bullpen_c_desk_sigh_02 with dissolve
+
+"I deserve that."
+
+"But it still sucks."
+
+scene bullpen_c_desk_sigh_01 with dissolve
+
+"And what was with Bella this morning?"
+
+"Actually she's been blushing a lot lately?
+
+"What does that mean?"
+
+scene bullpen_c_desk_standing_01 with dissolve
+
+"Maybe some food will help me get some actual work done."
+
+# Breakroom
+scene breakroom_c_enter_01 with fade
+
+"Peace. Finally."
+
+"No Frank. No emails. Just me and this sandwich I probably don’t deserve."
+
+scene breakroom_c_sit_01 with dissolve
+
+"She even cut the crusts."
+
+"That girl’s gonna make someone very happy one day."
+
+scene breakroom_c_table_think_01 with dissolve
+
+"Frank’s stupid towel line keeps bouncing around my skull."
+
+"And of course it makes me picture Lilith from this morning."
+
+scene breakroom_c_table_lean_01 with dissolve
+
+"Ugh..."
+
+"Maybe it wasn’t the towel's fault."
+
+"Maybe it’s mine."
+
+"The way I freeze up. The way I avoid conflict."
+
+scene breakroom_c_table_stare_01 with dissolve
+
+"Bella's massage last night was really relaxful."
+
+"She keeps trying to help me. And I can only seem to accept it begrudginly."
+
+scene breakroom_c_sit_01 with dissolve
+
+"Hell, even Frank seems to try and help."
+
+"In his own demented way."
+
+scene breakroom_c_sit_02 with dissolve
+
+"Maybe it’s time I stop pretending I don’t need anyone."
+
+"Maybe just for once, I can accept the offered hand."
+
+"Maybe just for once, I can lean on someone else for support."
+
+# Bullpen – Return to Desk
+scene bullpen_c_return_01 with fade
+
+"Back to it."
+
+scene bullpen_c_desk_note_02 with dissolve
+
+"...Another doodle?"
+
+"A cartoon me sitting at my desk day dreaming."
+
+scene bullpen_c_working_01 with dissolve
+
+"I guess they're not wrong."
+
+"Whoever they are."
+
+scene bullpen_c_desk_smile_01 with dissolve
+
+mc "Whoever’s doing this… it’s working."
+
+mc "Thanks. I guess."
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day4_evening

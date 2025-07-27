@@ -1,0 +1,93 @@
+label day3_breakfast:
+
+# Dining Room
+scene living_c_enter_01 with fade
+
+scene kitchen_clb_entering_door_wide_01 with dissolve
+
+"She's already at the table. Coffee in hand. Not speaking."
+
+"And somehow that’s scarier than shouting."
+
+scene dining_cb_kitchen_pass_01 with dissolve
+
+b "You're just in time. Mom already burned the first round."
+
+l "You try flipping pancakes with betrayal in your veins."
+
+mc "So… medium-well toast then?"
+
+scene dining_b_smirk_plate_01 with dissolve
+
+b "I made the second batch. You’re safe."
+
+scene dining_l_coffee_sip_01 with dissolve
+
+l "He’s not."
+
+scene dining_cb_plate_pass_01 with dissolve
+
+b "Be nice. It's breakfast, not court."
+
+"...Maybe if I don’t speak, I’ll vanish."
+
+scene dining_b_giggle_01 with dissolve
+
+b "Took you a while in the shower."
+
+scene dining_c_awkward_cup_01 with dissolve
+
+mc "Had to do some, uh... deep cleaning."
+
+scene dining_l_glare_mug_01 with dissolve
+
+l "More like deep creeping."
+
+scene dining_b_giggle_01 with dissolve
+
+mc "Junior says hi."
+
+scene dining_b_fork_01 with dissolve
+
+scene dining_b_fork_drop_01 with dissolve
+
+scene dining_b_fork_reach_01 with dissolve
+
+scene dining_b_fork_01 with dissolve
+
+b "I’m going to throw this fork at you."
+
+scene dining_c_smile_01 with dissolve
+
+mc "That's fair."
+
+# After Breakfast – Entryway
+scene entry_cb_lunch_pass_01 with fade
+
+b "Here. Lilith's lunch is in the fridge. This one’s extra good."
+
+scene entry_cb_smile_01 with dissolve
+
+mc "You didn’t have to—"
+
+b "I didn’t. But Junior needs it. Said he needed protein."
+
+scene entry_c_groan_01 with dissolve
+
+mc "Why do I open my mouth."
+
+scene entry_cb_exit_giggle_01 with dissolve
+
+mc "I really should stop naming body parts if I ever want to be taken seriously."
+
+scene entry_l_stairs_pass_01 with dissolve
+
+"Lilith didn't say anything snarky."
+
+"...Progress, I guess."
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day3_afternoon

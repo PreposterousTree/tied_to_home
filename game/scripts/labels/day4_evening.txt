@@ -1,0 +1,159 @@
+# Front Porch
+scene porch_cl_smoking_wide_01 with fade
+play music "home.ogg" fadein 1.5
+
+mc "You know those things are gonna kill you, right?"
+
+l "Tsk."
+
+l "So will life. At least this one's polite enough to do it slow."
+
+scene porch_cl_smoking_01 with dissolve
+
+mc "Still a hell of a trade. Ten minutes of peace for ten years off the end."
+
+l "You planning to live forever?"
+
+scene porch_cl_smoking_02 with dissolve
+
+mc "I was hoping to make it through the week."
+
+l "Then maybe stop creeping around and let me enjoy one damn cigarette."
+
+mc "You're right. Sorry."
+
+scene porch_cl_smoking_01 with dissolve
+
+l "So how was work?"
+
+mc "Shitty. But do you really care?"
+
+scene porch_cl_smoking_02 with dissolve
+
+l "No, but it's kinda awkward with you just standing there."
+
+mc "Haha. Sorry about that."
+
+mc "I can leave if you want."
+
+scene porch_cl_smoking_01 with dissolve
+
+l "... It's a free country."
+
+l "Besides I'm done."
+
+scene porch_cl_smoking_03 with dissolve
+
+mc "I just... worry about you, Lily."
+
+scene porch_cl_blush_01 with dissolve
+
+l "Don’t call me that!"
+
+scene porch_cl_punch_01 with dissolve
+
+l "Aaarrrgh!"
+
+scene porch_cl_enter_01 with dissolve
+
+scene porch_c_enter_01 with fade
+
+"..."
+
+"For a second, it felt better. Then it didn’t."
+
+scene porch_c_smile_01 with dissolve
+
+"..."
+
+"Was that a smile?"
+
+# Dining Room
+scene dining_cl_table_01 with fade
+
+mc "This smells amazing. Did you make it, Bella?"
+
+scene dining_cb_plate_pass_02 with dissolve
+
+b "Yeah. Mom almost lit the kitchen on fire again, so I took over."
+
+scene dining_clb_table_01 with dissolve
+
+l "You're welcome, by the way. For not burning the house down."
+
+mc "Truly heroic."
+
+scene dining_cb_talk_01 with dissolve
+
+mc "You always cook this well under pressure?"
+
+b "Only when the alternative is fire damage."
+
+scene dining_clb_talk_01 with dissolve
+
+l "Or emotional damage."
+
+b "Be nice, Mom."
+
+l "Tsk."
+
+scene dining_clb_talk_02 with dissolve
+
+mc "What kind of seasoning is this? Feels different."
+
+l "It's salt. You’d know if you ever cooked anything that didn’t come in a microwaveable tray."
+
+b "Mom, stop."
+
+scene dining_clb_talk_03 with dissolve
+
+l "I’m just saying, the man wouldn’t survive a week alone."
+
+mc "I’m sitting right here, you know."
+
+l "Sadly, I do."
+
+scene dining_b_fork_01 with dissolve
+
+b "Next one to speak is washing dishes. Alone."
+
+scene dining_clb_eat_dinner_01 with dissolve
+
+"..."
+
+"... I miss when silence was the awkward part."
+
+# Bedroom
+scene bedroom_c_laying_side_01 with fade
+stop music fadeout 2.0
+
+"She punched me."
+
+"Again."
+
+"But she blushed first."
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"And for just a second… she didn’t look angry."
+
+"She looked scared."
+
+scene bedroom_ceiling_02 with dissolve
+
+"Like I’d gotten too close."
+
+"Like I saw something I wasn’t supposed to."
+
+scene bedroom_c_arm_over_eyes_01 with dissolve
+
+"She didn’t hate it."
+
+"That’s the part I can’t stop thinking about."
+
+"And probably the part she’ll never admit."
+
+scene black with fade
+pause 3
+
+jump day5_morning.

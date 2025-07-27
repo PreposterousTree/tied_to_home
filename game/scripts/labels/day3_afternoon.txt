@@ -1,0 +1,107 @@
+label day3_afternoon:
+
+# Arrival – Desk Discovery
+scene bullpen_c_enter_01 with fade
+play music "work.ogg" fadein 1.5
+
+"The office smells like burnt coffee and tired ambition."
+
+scene bullpen_c_desk_standing_01 with dissolve
+
+scene bullpen_c_desk_note_01 with dissolve
+
+"Someone left a doodle on my keyboard."
+
+"A cartoon version of me surrounded by coffee cups and slouched like a dying plant."
+
+"Not signed, but there’s a tiny heart in the corner."
+
+"Either someone’s mocking me or trying to flirt."
+
+"...No idea which is worse."
+
+# Pre-Lunch – Can't Focus
+scene bullpen_c_typing_error_01 with dissolve
+
+"Trying to work. Really."
+
+"But my brain keeps flashing back to steam and skin and slapping sounds."
+
+scene bullpen_c_desk_sigh_02 with dissolve
+
+"Why the hell didn’t I knock?"
+
+"Who just walks into a shower?!"
+
+scene bullpen_c_desk_sigh_01 with dissolve
+
+"Junior’s timing is tragic."
+
+# Breakroom – Lunch with Frank
+scene breakroom_cf_enter_01 with fade
+
+f "You look like someone boiled your soul and served it with a side of regret."
+
+mc "Just a weird morning."
+
+f "We talking emotional, spiritual, or naked?"
+
+mc "...Yes."
+
+scene breakroom_cf_story_start_01 with dissolve
+
+f "Hey, could be worse. I once walked in on my third wife’s cousin in the shower."
+
+f "She was visiting for the weekend. Bathroom door was cracked. I thought it meant vacant."
+
+scene breakroom_cf_story_gesture_01 with dissolve
+
+f "Swung it open and there she was..."
+
+f "Full moon rising, loofah mid-air."
+
+scene breakroom_cf_story_laugh_01 with dissolve
+
+f "Both of us screamed like idiots."
+
+f "She threw a shampoo bottle. I ducked. Slipped on the damn tile and cracked my elbow."
+
+scene breakroom_cf_story_grin_01 with dissolve
+
+f "Spent the next two weeks explaining to family why I had a bruise shaped like Herbal Essence."
+
+scene breakroom_c_sigh_01 with dissolve
+
+mc "Frank… why are you like this."
+
+scene breakroom_cf_soup_sip_01 with dissolve
+
+f "Experience. And trauma. But mostly experience."
+
+scene breakroom_c_facepalm_01 with dissolve
+
+mc "I just wanted lunch. Now I’ve got mental images I can’t unsee."
+
+# Post-Lunch – Focus Montage
+scene bullpen_c_typing_focus_01 with fade
+
+mc "Okay. Focus up."
+
+mc "Brain on. Pants zipped. Hands off the mouse unless it’s work-related."
+
+scene bullpen_c_mouse_click_01 with dissolve
+
+scene bullpen_c_focus_desk_01 with dissolve
+
+scene bullpen_c_mark_documents_01 with dissolve
+
+# End of Day
+scene bullpen_c_sit_back_done_01 with dissolve
+
+"Not bad, considering I started the day with a slap and a boner."
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day3_evening

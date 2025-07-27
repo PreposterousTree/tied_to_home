@@ -1,0 +1,89 @@
+label day3_evening:
+
+# Entryway – Returning Home
+scene entry_c_enter_02 with fade
+play music "home.ogg" fadein 1.5
+
+"Everything aches. Even my thoughts."
+
+scene entry_cb_enter_01 with dissolve
+
+b "Hey. Welcome back."
+
+scene entry_cb_lunch_pass_01 with dissolve
+
+b "Did you eat everything?"
+
+mc "Yeah."
+
+scene entry_cb_blush_01 with dissolve
+
+b "You didn’t mention the note..."
+
+"Too tired to respond. Even gratitude feels like effort."
+
+# Living Room – Care
+scene livingroom_c_sitting_01 with fade
+
+"This couch might be the only thing keeping me vertical."
+
+scene living_cb_water_01 with dissolve
+
+b "Here."
+
+b "I figured you'd forget. You always do."
+
+b "You don't take care of yourself unless someone makes you."
+
+"Of course she thought of that."
+
+scene living_cb_sit_next_01 with dissolve
+
+b "You don’t have to talk if you’re too tired. I just wanted to be near you."
+
+"...She always knows exactly what I need before I do."
+
+scene living_cb_thigh_rub_01 with dissolve
+
+b "You work so hard. Too hard. And then you pretend you're fine."
+
+"...That feels... nice."
+
+"Calming. Like someone pressing pause on the chaos."
+
+scene living_cb_snuggle_01 with dissolve
+
+b "I’m really proud of you."
+
+b "I see how much you carry. I wish you'd let someone carry you sometimes."
+
+"Why does that hit harder than anything I heard all day?"
+
+scene living_cb_cheek_kiss_01 with dissolve
+
+b "I’ll start dinner, okay?"
+
+"...She kissed me. Just like that."
+
+"And somehow it said more than anything else she could've."
+
+# Bedroom – Reflection
+scene bedroom_c_laying_side_01 with fade
+stop music fadeout 2.0
+
+"I could pack a bag tonight."
+
+"Just leave. Quietly. Start over somewhere that doesn’t weigh so much."
+
+"But then I remember her voice. Her warmth."
+
+"The way she always shows up without being asked."
+
+"Leaving would
+
+"But it wouldn’t be easy. Not anymore."
+
+scene black with fade
+pause 3
+
+jump day4_morning

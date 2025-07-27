@@ -1,0 +1,317 @@
+label day1_morning:
+
+scene bedroom_c_sleeping_wide_01 with fade
+play music "morning_soft.ogg" fadein 1.5
+
+"…"
+"That sound again."
+
+scene bedroom_c_eyes_open_01 with dissolve
+
+"The birds. Every damn morning. Like they’ve got something to be excited about."
+
+"Me? I’ve got a two-foot dent in this mattress and half a plan to disappear."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"Maybe I’d already be gone if I wasn’t so tired. Or lazy. Or both."
+
+scene bedroom_front_wall_01 with dissolve
+
+"I told myself I’d pack up after the funeral. Tie up loose ends. Start fresh somewhere else."
+
+scene bedroom_c_sitting_bed_01 with dissolve
+
+"But somehow I’m still here. Still… stalled."
+
+scene bedroom_suitcase_close_01 with dissolve
+
+"The bag's still on the floor. Half full. Like me."
+
+scene bedroom_c_looking_down_01 with dissolve
+
+"I should go."
+
+[Pause]
+
+"But she’s probably already in the kitchen. Making coffee. Or humming something old."
+
+scene bedroom_ceiling_01 with dissolve
+
+"Bella."
+
+"Too good for this place. Too good for me."
+
+scene bedroom_c_stand_bed_01 with dissolve
+
+"And now she’s up. Same as always. Quiet feet. Gentle rhythm."
+
+scene bedroom_c_hand_through_hair_01 with dissolve
+
+"One more day. I’ll stay one more day."
+
+scene black with fade
+pause 1
+
+jump day1_breakfast
+
+label day1_breakfast:
+
+scene kitchen_empty_wide_01 with fade
+
+scene living_c_enter_01 disolve
+
+"The kitchen is already warm. Not just from the stove — from something quieter."
+
+scene kitchen_b_cooking_stove_side_01 with dissolve
+
+"Bella is at the counter, tying her hair back with a rubber band, the pan already sizzling."
+
+scene dining_l_tired_table_01 with dissolve
+
+"And Lilith... well, she is doing her best impersonation of a human being."
+
+scene kitchen_clb_entering_door_wide_01 with dissolve
+
+"Lilith is obviously still half asleep. Mornings were never her forte."
+
+scene kitchen_b_smile_over_shoulder_01 with dissolve
+
+b "You're up early."
+
+mc "Am I?"
+
+b "Earlier than usual."
+
+scene dining_l_coffee_grumble_02 with dissolve
+
+l "...He's probably just trying to beat me to the last slice of toast again."
+
+mc "Please. That’s your thing, Lily."
+
+scene dining_l_flinch_name_01 with dissolve
+
+"Lilith flinched. Not visibly. But I knew her well enough to spot the hitch in her breath."
+
+l "Don't call me that."
+
+mc "You gonna make me toast if I stop?"
+
+l "You gonna make me coffee if I don’t?"
+
+scene dining_b_bring_breakfast_01 with dissolve
+
+b "Why don’t you both sit down? It’s almost ready."
+
+scene dining_clb_seated_table_wide_01 with dissolve
+
+"The three of them had fallen into this rhythm. Not a family — not quite. But not strangers either."
+
+scene dining_c_reflect_soft_01 with dissolve
+
+mc "Hard to believe your mom’s been gone two years."
+
+b "Feels like yesterday. And forever."
+
+scene dining_l_faint_smile_01 with dissolve
+
+l "She left us this house. And the two of you with it."
+
+mc "Lucky you."
+
+l "Shut up and eat."
+
+scene dining_b_proud_food_table_01 with dissolve
+
+"The eggs are fluffy. The toast is perfect. Bella never misses a step in the kitchen — unlike her mom."
+
+"The food is good. But the comfort? That comes from the voices around the table."
+
+scene black with fade
+pause 1
+
+jump day1_chores
+
+label day1_chores:
+
+scene living_cb_dishes_clear_wide_01 with fade
+
+"Of course Lilith ran away after breakfast. The first sign of something related to a chore and she bolts."
+
+scene kitchen_b_drying_dish_side_01 with dissolve
+
+b "You know you don’t have to help, right?"
+
+scene kitchen_c_wiping_table_01
+
+mc "Yeah, but if I don’t, I’ll hear about it next Sunday."
+
+scene kitchen_b_drying_dish_front_smirk_01
+
+b "From Mom?"
+
+mc "From you."
+
+scene living_cb_fold_laundry_sofa_01
+
+"Laundry. The weekly chore that everyone dreads. But I doubt anyone has the money to buy new socks every week."
+
+scene living_b_refolding_c_laundry_01
+
+b "You're hopeless."
+
+mc "You say that like it’s news."
+
+scene living_b_sitting_sofa_reflect_01
+
+[Pause]
+
+mc "I’m sorry, by the way."
+
+scene living_cb_sitting_sofa_01
+
+b "For what?"
+
+mc "Just... for how things turned out."
+
+mc "You've had to go behind your mom and I to pick up the slack around here."
+
+mc "Not to mention the fact that you've never had a dad around."
+
+scene living_b_soft_shrug_close_01
+
+b "You don’t have to apologize. That was never your fault."
+
+scene living_cb_sitting_sofa_01
+
+mc "Doesn’t mean I don’t wish it had gone different."
+
+mc "I still can't understand how he could just walk away after finding out your mom was pregnant."
+
+mc "They were still in highschool. How could she be expected to handle all this."
+
+scene living_cb_sitting_look_at_each_other_behind_01
+
+b "I know. It wasn't fair to mom."
+
+b "But i'm still happy with how things turned out."
+
+scene living_b_smile_faint_close_01
+
+b "Otherwise... I might not have ended up with you around."
+
+b "And who else would break my dish towel folding rules every week?"
+
+scene living_cb_sitting_look_at_each_other_behind_01
+
+"Her smiled is always so warm. She is never upset about having to do the chores."
+
+scene black with fade
+pause 1
+
+jump day1_afternoon
+
+label day1_afternoon:
+
+scene livingroom_c_sitting_01 with fade
+play music "bgm_afternoon_soft.ogg" fadein 1.5
+
+"…"
+
+"Why does this couch feel heavier than usual?"
+
+"Everything’s done. Bella took care of it all again."
+
+"I keep saying I’ll leave, but I’m still sitting here. Same spot. Same excuses."
+
+scene livingroom_b_enters_glass_01 with dissolve
+
+b "Still dehydrated, dummy."
+
+scene livingroom_b_sets_glass_01 with dissolve
+
+b "Don’t make me come back and check, okay?"
+
+scene livingroom_b_exit_01 with dissolve
+
+mc "Thanks..."
+
+"She’s always looking out for me. Even when I don’t ask."
+
+scene livingroom_c_glass_stare_01 with dissolve
+
+"I should be doing something. Saying something. Packing, maybe."
+
+"But that glass just keeps sitting there. And so do I."
+
+"Am I staying out of gratitude?"
+
+"…Or because I’m too tired to go?"
+
+scene black with fade
+pause 1
+
+jump day1_evening
+
+label day1_evening:
+
+scene dining_clb_dinner_end_01 with fade
+
+b "You got everything ready for work tomorrow?"
+
+mc "Yeah. Mostly."
+
+b "You're a bad liar."
+
+l "Should be lying about something useful. Like getting a promotion."
+
+mc "I’ll put that on my to-do list."
+
+scene living_clb_sofa_sit_01 with fade
+
+mc "Let’s just agree we’re not watching dating trash tonight."
+
+l "Says the guy who watched three hours of baking fails last week."
+
+mc "They were impressive failures."
+
+l "They were collapsing cakes and crying contestants."
+
+mc "And that’s art."
+
+scene living_b_remote_grab_01 with dissolve
+
+b "Too late. I already picked."
+
+scene living_b_remote_click_01 with dissolve
+
+mc "Of course you did…"
+
+l "Ugh. Romance anime again?"
+
+b "Yup. Now hush."
+
+scene living_clb_sofa_watch_01 with dissolve
+
+"She settles in between us. Like it’s always been this way."
+
+scene bedroom_c_eyes_open_01 with fade
+stop music fadeout 2.0
+
+"…"
+
+"I should’ve packed today."
+
+scene bedroom_c_laying_side_01 with dissolve
+
+"I don’t want to go to work tomorrow."
+
+scene bedroom_ceiling_02 with dissolve
+
+"Why the hell am I still here?"
+
+scene black with fade
+stop music fadeout 2.0
+pause 3
+
+jump day2_morning
